@@ -12,4 +12,5 @@ module top_module(
       sum[i] = (a[i] ^ b[i] ^ cout[i-1]) ? 1 : 0;
     end
   end
+  
 endmodule

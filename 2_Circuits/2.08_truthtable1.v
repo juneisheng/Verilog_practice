@@ -5,5 +5,4 @@ module top_module(
   output f   // one output
 );
 
-
 endmodule

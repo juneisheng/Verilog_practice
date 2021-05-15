@@ -3,5 +3,5 @@ module top_module (
   output out);
 
   assign out = in;
-  
+
 endmodule

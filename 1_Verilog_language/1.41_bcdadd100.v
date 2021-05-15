@@ -20,5 +20,6 @@ module top_module(
   endgenerate
     
   assign cout = cout_tmp[$bits(cout_tmp)-4];
+  
 endmodule
 
