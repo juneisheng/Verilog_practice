@@ -6,5 +6,5 @@ A complete set of solutions and basic knowledge and skills on Verilog are aimed.
 Meanwhile, some notes are also commented at the beginning/end of each file.
 
 In 1_Verilog_Language:  
-Basics: 1.01_wire - 1.08_7458  
-Vectors: 1.09_vector0 - 
+Basics: 1.01_wire  ~  1.08_7458  
+Vectors: 1.09_vector0  ~   
