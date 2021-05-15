@@ -3,7 +3,7 @@ module top_module(
   output [7:0] out );
 
   always @(*) begin
-    int n = o;
+    int n = 0;
     for (int i = 0; i < $bits(in); i++) begin
       if (in[i] == 1) begin
         n++;
