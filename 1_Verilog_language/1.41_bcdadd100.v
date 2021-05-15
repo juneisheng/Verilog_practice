@@ -1,5 +1,6 @@
 // generate 生成instances，genvar定义变量，for语句须有命名
 // 无法如同c语言一样，覆盖掉过程中需要而之后不需要的变量值
+// 另 for中貌似无法使用 module套module ？存疑
 // 且另设wire等type也不可，生成出的instances同时执行，signal不可被赋多值
 // Net "xxx", which fans out to "xxx", cannot be assigned more than one value
 
