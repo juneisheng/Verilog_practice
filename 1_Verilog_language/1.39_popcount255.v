@@ -5,7 +5,7 @@ module top_module(
   always @(*) begin
     out = 0;
     for (int i = 0; i < $bits(in); i++) begin
-      if (in[i] == 1) 
+      if (in[i] == 1) //out = out + in[i];
         out++;
       else
         ;
